@@ -1,6 +1,12 @@
 # digicash
 Digicash Plugin  for Wordpress
 
+import the digicash acf from the acf-digicash.json file
+
+copy the woocommerce folder in your theme folder
+
+
+
 set MERCHAND_ID with the MERCHAND_ID received from digicash
 
 QR_URL 		      is the url for the qr code generator
